@@ -13,7 +13,7 @@
 
 body {
   background: var(--preta);
-  font: 'Times New Roman', Times, serif;
+  font: 'Arial', Times, serif;
   color: #fff;
 }
 
@@ -103,4 +103,8 @@ header nav a:hover {
   height: 100%;
   width: 100%;
   display: block;
+}
+
+.carrossel-filmes {
+  margin-top: 8px;
 }
