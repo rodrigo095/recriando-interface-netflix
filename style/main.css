@@ -87,6 +87,11 @@ header nav a:hover {
   color: #000;
 }
 
+.botao a {
+  text-decoration: none;
+  color: #fff;
+}
+
 .botao i {
   margin-right: 8px;
 }
